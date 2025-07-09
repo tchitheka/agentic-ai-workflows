@@ -2,9 +2,12 @@
 .env
 
 # Agentic lesson files
+ai_agents_presentation.md
 *agentic-lesson*.md
 agentic-lessons-plan.md
 multi-agentic-lesson-plan.md
+ai_agents_lessons_plan.md
+multi_agentic_lesson_plan.md
 
 # Python virtual environments
 venv/
