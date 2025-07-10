@@ -1,6 +1,10 @@
 # Environment variables
 .env
 
+# files
+load-balancer
+load-balancer/
+
 # Agentic lesson files
 ai_agents_presentation.md
 *agentic-lesson*.md
